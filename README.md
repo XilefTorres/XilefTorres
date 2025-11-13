@@ -48,6 +48,12 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
     </a>
+    <a href="https://unity.com/es" target="_blank" rel="noreferrer">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="tailwind" width="40" height="40"/>
+    </a>
+    <a href="https://godotengine.org/es/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" alt="tailwind" width="40" height="40"/>
+    </a>
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
       <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
     </a>
