@@ -61,7 +61,10 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/>
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mssql" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+    </a>
+    <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/>
     </a>
     <a href="https://www.microsoft.com/es-MX/sql-server/sql-server-downloads?msockid=1e828af4e5636aed26ad9c60e4586be6" target="_blank" rel="noreferrer">
       <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="sqlserver" width="40" height="40"/>
