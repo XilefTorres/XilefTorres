@@ -2,7 +2,8 @@
 <h3 align="center">A videogame and web developer from Mexico</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=XilefTorres&show_icons=true&theme=tokyonight" alt="Stats de Xilef" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=XilefTorres&layout=compact&theme=tokyonight" alt="Lenguajes de Xilef" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XilefTorres&theme=tokyo-night" alt="Gráfico de Actividad" />
 </p>
 
 ---
