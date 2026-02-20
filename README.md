@@ -5,9 +5,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=XilefTorres&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=XilefTorres&layout=compact&theme=tokyonight" alt="Lenguajes de Xilef" />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XilefTorres&theme=tokyo-night" alt="Gráfico de Actividad" />
-</p>
 
 ---
 
@@ -23,36 +20,19 @@
 
 ### 🛠️ Tech Stack
 
-#### 💻 Languages
+#### 💻 Languages & Core
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,cpp,py,php,html,css" alt="My Languages" />
 </p>
 
-#### 🕹️ Game Development & Design
+#### 🕹️ Game Dev & Design
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/>
-  <img src="https://github.com/dominickjohn/aseprite-big-sur-icon/blob/main/AsepriteSurIcon.png" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-original.svg" alt="illustrator" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=unity,godot,blender,ai" alt="Game Dev Tools" />
 </p>
 
-#### 🌐 Frameworks, Cloud & DB
+#### 🌐 Frameworks & Cloud
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="sqlserver" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react,vue,tailwind,supabase,gcp,mysql,vite" alt="Web Tech" />
 </p>
 
 ---
