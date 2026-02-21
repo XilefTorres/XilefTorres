@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Xilef Torres 👋</h1>
 <h3 align="center">A videogame and web developer from Mexico</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=XilefTorres&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=XilefTorres&layout=compact&theme=tokyonight" alt="Lenguajes de Xilef" />
 </p>
