@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Xilef Torres 👋</h1>
 <h3 align="center">A videogame and web developer from Mexico</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=XilefTorres&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=XilefTorres&layout=compact&theme=tokyonight" alt="Lenguajes de Xilef" />
 </p>
@@ -37,6 +37,13 @@
 
 ---
 
+## 🕹️ Featured Projects
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Web Portfolio** | A personal portfolio showcasing my web and game development journey. | React, TailwindCSS | [Page 🔗](https://xilefdev.netlify.app/) |
+| **Game Rating App** | A full-stack platform for reviewing games with Google Authentication. | React, Supabase, GCP | [Page 🔗](https://gamesratex.netlify.app/) |
+| **Sentinel.exe** | A videogame where you fight against viruses to protect your system. | Godot, GDScript, Aseprite | [Live 🚀](https://xileftorres.itch.io/sentinel) |
+| **UltimateBasket** | An arcade basketball game where you use powers to win the match. | Unity, C#, Aseprite | [Live 🚀](https://xileftorres.itch.io/ultimate-basket) |
+
 ### 🚀 Currently working on
-- 🎮 **Game Rating App**: A fullstack project using React, Supabase, and Google Cloud Auth.
-- 🛠️ Improving my skills in **PostgreSQL** and Real-time databases.
+- **Gapa Refacciones**: A fullstack project using React, Supabase, and Stripe.
