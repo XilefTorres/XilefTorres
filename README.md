@@ -45,5 +45,11 @@
 | **Sentinel.exe** | A videogame where you fight against viruses to protect your system. | Godot, GDScript, Aseprite | [Live 🚀](https://xileftorres.itch.io/sentinel) |
 | **UltimateBasket** | An arcade basketball game where you use powers to win the match. | Unity, C#, Aseprite | [Live 🚀](https://xileftorres.itch.io/ultimate-basket) |
 
-### 🚀 Currently working on
-- **Gapa Refacciones**: A fullstack project using React, Supabase, and Stripe.
+## 🛠️ On My Desk
+
+| Project | Type | Status | Main Tech |
+| :--- | :--- | :--- | :--- |
+| **Gapa Refacciones** | Fullstack E-commerce | 🏗️ In Development | `React`, `Stripe` |
+| **Secret Project** | Indie Game | 📝 Planning | `Unity` |
+
+---
