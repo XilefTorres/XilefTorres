@@ -10,10 +10,10 @@
 
 ### 🤝 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/jorge-xilef-jacobo-torres-4b0029332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge xilef jacobo torres" height="30" width="40" /></a>
-<a href="https://fb.com/xilef.jacobotorres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xilef torres" height="30" width="40" /></a>
-<a href="https://instagram.com/xilefgeto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xilefgeto" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@xileftorres8566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xilef8566" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jorge-xilef-jacobo-torres-4b0029332" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" /></a>&nbsp;
+<a href="https://fb.com/xilef.jacobotorres" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30" /></a>&nbsp;
+<a href="https://instagram.com/xilefgeto" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" /></a>&nbsp;
+<a href="https://www.youtube.com/@xileftorres8566" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="30" /></a>
 </p>
 
 ---
