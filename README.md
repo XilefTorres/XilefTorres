@@ -90,5 +90,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=XilefTorres&style=flat-square&color=7AA2F7&label=Profile+views" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Thanks%20for%20playing-Your%20princess%20is%20in%20another%20domain-7AA2F7?style=for-the-badge&labelColor=0a0820" alt="Thanks for playing. Your princess is in another domain" />
 </p>
